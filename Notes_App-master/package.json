@@ -1,7 +1,7 @@
 {
   "name": "notes_app",
   "version": "0.1.0",
-  "homepage": "https://Aman-201.github.io/Keep_App",
+  "homepage": "https://aman-201.github.io/Keep_App",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
